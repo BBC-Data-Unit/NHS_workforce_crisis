@@ -2,7 +2,8 @@
 
 A repository covering our work on the staffing issues facing the NHS in 2022
 
-In August 2022, we revealed how the share of homegrown doctors and nurses joining England's NHS had reached its lowest point in seven years.
+In August 2022, we [revealed how the share of homegrown doctors and nurses joining England's NHS had reached its lowest point in seven years](https://www.bbc.co.uk/news/uk-61230287).
+
 Some 58% of doctors joining the health service in 2021 came from the UK, with health bosses increasingly turning to international recruitment.
 The British Medical Association said the NHS faced a "workforce crisis". 
 

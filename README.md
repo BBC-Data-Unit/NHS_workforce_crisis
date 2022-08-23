@@ -34,8 +34,11 @@ We also produced [this website](https://nhsworkforce.github.io/getthedata/) allo
 The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. Stories written by partners based on this research included:
 
 - Birmingham Live: [NHS facing 'workforce crisis' as service struggles to recruit local doctors and nurses](https://www.birminghammail.co.uk/black-country/nhs-facing-workforce-crisis-service-24706258) *13 August 2022*
+- Birmingham Live: Hospitals face crisis in mass exodus of staff *20 August 2022*
 - Bracknell News: [Berkshire's NHS staff joining from UK falls since Brexit](https://www.bracknellnews.co.uk/news/20604444.berkshires-nhs-staff-joining-uk-falls-since-brexit/) *5 August 2022*
 - Bucks Free Press: [NHS workforce levels show UK staff decreasing](https://www.bucksfreepress.co.uk/awards/bhsc-awards-2021/news/20602233.nhs-workforce-crisis/) *5 August 2022*
+- Coventry Live: [NHS worker shortage 'crisis' as doctors and nurses quit jobs](https://www.coventrytelegraph.net/news/coventry-news/nhs-worker-shortage-crisis-doctors-24774303) *20 August 2022*
+- Coventry Telegraph: NHS 'workforce crisis' as more doctors and nurses quit their jobs *23 August 2022*
 - Eastern Eye: UK's increasing dependence on overseas hirings to meet healthcare needs raises concern *5 August 2022*
 - Eastern Eye: NHS 'needs plan' to reduce reliance on overseas medics *12 August 2022*
 - Evening Standard: [NHS in England ‘heavily reliant’ on doctors overseas amid staffing ‘crisis’](https://www.standard.co.uk/news/uk/nhs-overseas-recruits-staff-shortages-british-medical-association-b1016949.html) *5 August 2022*

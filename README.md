@@ -45,14 +45,17 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 - Hamsptead and Highgate Express: [Hospital trusts increasingly reliant on international medical staff](https://www.hamhigh.co.uk/news/share-of-uk-medical-staff-joining-decreased-9193014) *5 August 2022*
 - Hull Daily Mail: [NHS increasingly reliant on overseas doctors and nurses amid "workforce crisis"](https://www.hulldailymail.co.uk/news/uk-world-news/nhs-increasingly-reliant-overseas-doctors-7442942) *10 August 2022*
 - Islington Gazette: [Hospital trust increasingly reliant on international medical staff](https://www.islingtongazette.co.uk/news/share-of-uk-medical-staff-joining-decreased-9193036) *9 August 2022*
+- Leeds Live: [Leeds NHS suffering from 'workforce crisis' as service struggles to fill jobs](https://www.leeds-live.co.uk/news/leeds-news/leeds-nhs-suffering-workforce-crisis-24682424) *8 August 2022*
 - The Lincolnite: [More doctors training in Lincolnshire after drop in local staff](https://thelincolnite.co.uk/2022/08/more-doctors-training-in-lincolnshire-after-drop-in-local-staff/) *5 August 2022*
 - Liverpool Echo: [NHS staff shortages are 'worst they have ever been' as doctors leave](https://www.liverpoolecho.co.uk/news/liverpool-news/nhs-staff-shortages-worst-ever-24765094) *16 August 2022*
 - Manchester World: [NHS recruitment Manchester: Fewer UK staff joining workforce in Greater Manchester hospital trusts](https://www.manchesterworld.uk/news/nhs-recruitment-manchester-fewer-uk-staff-joining-workforce-in-greater-manchester-hospital-trusts-3799278) *10 August 2022*
 - Norfolk Live: [Increase in NHS doctors and nurses joining from outside the EU as hospitals face 'workforce crisis'](https://www.norfolklive.co.uk/news/norfolk-news/nhs-workers-out-the-eu-7420102) *5 August 2022*
-- The Reading Chronicle: Share of homegrown doctors and nurses at Royal Berkshire Hospital decreasing *9 August 2022*
+- Oxfordshire Live: [NHS facing 'workforce crisis' in Oxfordshire amid struggle to recruit](https://www.oxfordshirelive.co.uk/news/oxfordshire-news/nhs-facing-workforce-crisis-oxfordshire-7479673) *19 August 2022*
 - Peterborough Telegraph: [Falling number of 'homegrown' doctors and nurses opt to work for Peterborough health services, warns new report](https://www.peterboroughtoday.co.uk/news/people/falling-number-of-homegrown-doctors-and-nurses-opt-to-work-for-peterborough-health-services-warns-new-report-3794302) *5 August 2022*
+- The Reading Chronicle: Share of homegrown doctors and nurses at Royal Berkshire Hospital decreasing *9 August 2022*
 - The Sentinel (Stoke): Our NHS faces 'staffing crisis' *11 August 2022*
 - Suffolk News: [Suffolk NHS trusts see international recruitment soar as UK intake stalls](https://www.suffolknews.co.uk/bury-st-edmunds/news/nhs-trusts-see-international-recruitment-soar-9267237/) *5 August 2022*
+- Teesside Live: [Share of homegrown NHS doctors and nurses hits seven-year low in 'workforce crisis'](https://www.gazettelive.co.uk/news/teesside-news/share-homegrown-nhs-doctors-nurses-24770618) *17 August 2022*
 - Wales Online: [NHS increasingly reliant on overseas doctors and nurses amid "workforce crisis"](https://www.walesonline.co.uk/news/uk-news/nhs-increasingly-reliant-overseas-doctors-24713931) *5 August 2022*
 
 The story featured online and as a bulletin piece across BBC local and national television and radio through 5 August 2022.
@@ -64,11 +67,10 @@ The team also carried out interviews on BBC Radio Tees, BBC Radio Cambridgeshire
 ## Other usage
 
 - gg2.net: UK's increasing dependence on overseas hirings to meet healthcare needs raises concern *6 August 2022*
+- The Guardian: [Overseas hiring spree planned for care homes in England amid winter fears](https://www.theguardian.com/society/2022/aug/19/overseas-hiring-spree-planned-for-care-homes-in-england-amid-winter-fears) *19 August 2022*
 - Health Business magazine: [Concern about over-reliance on overseas NHS staff](https://healthbusinessuk.net/news/05082022/concern-about-over-reliance-overseas-nhs-staff) *5 August 2022*
 - MailOnline: [The INTER-National Health Service: Share of NHS medics hired from overseas DOUBLES in five years — with one in three new recruits now from abroad](https://www.dailymail.co.uk/health/article-11084297/The-INTER-National-Health-Service-NHS-hiring-QUADRUPLE-number-foreign-doctors-nurses.html) *5 August 2022*
 - Nursing in Practice: [NHS increasingly dependant on international recruitment, data shows](https://www.nursinginpractice.com/latest-news/nhs-increasingly-dependant-on-international-recruitment-data-shows/) *8 August 2022*
 - SriLanka Weekly: UK’s increasing dependence on overseas hirings to meet healthcare needs raises concern *6 August 2022*
 - The Telegraph: [Surge in foreign medics ‘a risk to the NHS’](https://www.telegraph.co.uk/news/2022/08/05/over-reliance-foreign-medics-risk-nhs/) *5 August 2022*
 - The Times: [Staffing crisis leaves NHS increasingly reliant on doctors from overseas](https://www.thetimes.co.uk/article/staffing-crisis-leaves-nhs-increasingly-reliant-on-doctors-from-overseas-h9hr06b85) *6 August 2022*
-
-

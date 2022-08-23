@@ -33,14 +33,17 @@ We also produced [this website](https://nhsworkforce.github.io/getthedata/) allo
 
 The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. Stories written by partners based on this research included:
 
+- Birmingham Live: [NHS facing 'workforce crisis' as service struggles to recruit local doctors and nurses](https://www.birminghammail.co.uk/black-country/nhs-facing-workforce-crisis-service-24706258) *13 August 2022*
 - Bracknell News: [Berkshire's NHS staff joining from UK falls since Brexit](https://www.bracknellnews.co.uk/news/20604444.berkshires-nhs-staff-joining-uk-falls-since-brexit/) *5 August 2022*
 - Bucks Free Press: [NHS workforce levels show UK staff decreasing](https://www.bucksfreepress.co.uk/awards/bhsc-awards-2021/news/20602233.nhs-workforce-crisis/) *5 August 2022*
 - Eastern Eye: UK's increasing dependence on overseas hirings to meet healthcare needs raises concern *5 August 2022*
+- Eastern Eye: NHS 'needs plan' to reduce reliance on overseas medics *12 August 2022*
 - Evening Standard: [NHS in England ‘heavily reliant’ on doctors overseas amid staffing ‘crisis’](https://www.standard.co.uk/news/uk/nhs-overseas-recruits-staff-shortages-british-medical-association-b1016949.html) *5 August 2022*
 - Hamsptead and Highgate Express: [Hospital trusts increasingly reliant on international medical staff](https://www.hamhigh.co.uk/news/share-of-uk-medical-staff-joining-decreased-9193014) *5 August 2022*
-- Hull Live: [NHS increasingly reliant on overseas doctors and nurses amid "workforce crisis"](https://www.hulldailymail.co.uk/news/uk-world-news/nhs-increasingly-reliant-overseas-doctors-7442942) *10 August 2022*
+- Hull Daily Mail: [NHS increasingly reliant on overseas doctors and nurses amid "workforce crisis"](https://www.hulldailymail.co.uk/news/uk-world-news/nhs-increasingly-reliant-overseas-doctors-7442942) *10 August 2022*
 - Islington Gazette: [Hospital trust increasingly reliant on international medical staff](https://www.islingtongazette.co.uk/news/share-of-uk-medical-staff-joining-decreased-9193036) *9 August 2022*
 - The Lincolnite: [More doctors training in Lincolnshire after drop in local staff](https://thelincolnite.co.uk/2022/08/more-doctors-training-in-lincolnshire-after-drop-in-local-staff/) *5 August 2022*
+- Liverpool Echo: [NHS staff shortages are 'worst they have ever been' as doctors leave](https://www.liverpoolecho.co.uk/news/liverpool-news/nhs-staff-shortages-worst-ever-24765094) *16 August 2022*
 - Manchester World: [NHS recruitment Manchester: Fewer UK staff joining workforce in Greater Manchester hospital trusts](https://www.manchesterworld.uk/news/nhs-recruitment-manchester-fewer-uk-staff-joining-workforce-in-greater-manchester-hospital-trusts-3799278) *10 August 2022*
 - Norfolk Live: [Increase in NHS doctors and nurses joining from outside the EU as hospitals face 'workforce crisis'](https://www.norfolklive.co.uk/news/norfolk-news/nhs-workers-out-the-eu-7420102) *5 August 2022*
 - The Reading Chronicle: Share of homegrown doctors and nurses at Royal Berkshire Hospital decreasing *9 August 2022*

@@ -38,6 +38,7 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 - Wales Online [NHS increasingly reliant on overseas doctors and nurses amid "workforce crisis"](https://www.walesonline.co.uk/news/uk-news/nhs-increasingly-reliant-overseas-doctors-24713931) *5 August 2022*.
 - Hamsptead and Highgate Express [Hospital trusts increasingly reliant on international medical staff](https://www.hamhigh.co.uk/news/share-of-uk-medical-staff-joining-decreased-9193014) *5 August 2022*.
 - Evening Standard [NHS in England ‘heavily reliant’ on doctors overseas amid staffing ‘crisis’](https://www.standard.co.uk/news/uk/nhs-overseas-recruits-staff-shortages-british-medical-association-b1016949.html) *5 August 2022*.
+- Suffolk News: [Suffolk NHS trusts see international recruitment soar as UK intake stalls](https://www.suffolknews.co.uk/bury-st-edmunds/news/nhs-trusts-see-international-recruitment-soar-9267237/) *5 August 2022*.
 
 The story featured online and as a bulletin piece across local and national television and radio through 5 August, 2022.
 

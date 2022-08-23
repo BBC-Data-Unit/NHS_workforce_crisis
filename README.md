@@ -42,6 +42,7 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 - Eastern Eye: UK's increasing dependence on overseas hirings to meet healthcare needs raises concern *5 August 2022*
 - Eastern Eye: NHS 'needs plan' to reduce reliance on overseas medics *12 August 2022*
 - Evening Standard: [NHS in England ‘heavily reliant’ on doctors overseas amid staffing ‘crisis’](https://www.standard.co.uk/news/uk/nhs-overseas-recruits-staff-shortages-british-medical-association-b1016949.html) *5 August 2022*
+- Express & Star (Black Country): [NHS staffing concerns grow amid increase in share of recruits from abroad](https://www.expressandstar.com/news/uk-news/2022/08/05/nhs-staffing-concerns-grow-amid-increase-in-share-of-recruits-from-abroad/) *5 August 2022*
 - Hamsptead and Highgate Express: [Hospital trusts increasingly reliant on international medical staff](https://www.hamhigh.co.uk/news/share-of-uk-medical-staff-joining-decreased-9193014) *5 August 2022*
 - Hull Daily Mail: [NHS increasingly reliant on overseas doctors and nurses amid "workforce crisis"](https://www.hulldailymail.co.uk/news/uk-world-news/nhs-increasingly-reliant-overseas-doctors-7442942) *10 August 2022*
 - Islington Gazette: [Hospital trust increasingly reliant on international medical staff](https://www.islingtongazette.co.uk/news/share-of-uk-medical-staff-joining-decreased-9193036) *9 August 2022*
@@ -54,6 +55,7 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 - Peterborough Telegraph: [Falling number of 'homegrown' doctors and nurses opt to work for Peterborough health services, warns new report](https://www.peterboroughtoday.co.uk/news/people/falling-number-of-homegrown-doctors-and-nurses-opt-to-work-for-peterborough-health-services-warns-new-report-3794302) *5 August 2022*
 - The Reading Chronicle: Share of homegrown doctors and nurses at Royal Berkshire Hospital decreasing *9 August 2022*
 - The Sentinel (Stoke): Our NHS faces 'staffing crisis' *11 August 2022*
+- St Albans Review: [NHS staffing concerns grow amid increase in share of recruits from abroad](https://www.stalbansreview.co.uk/news/national/20604035.nhs-staffing-concerns-grow-amid-increase-share-recruits-abroad/) *5 August 2022*
 - Suffolk News: [Suffolk NHS trusts see international recruitment soar as UK intake stalls](https://www.suffolknews.co.uk/bury-st-edmunds/news/nhs-trusts-see-international-recruitment-soar-9267237/) *5 August 2022*
 - Teesside Live: [Share of homegrown NHS doctors and nurses hits seven-year low in 'workforce crisis'](https://www.gazettelive.co.uk/news/teesside-news/share-homegrown-nhs-doctors-nurses-24770618) *17 August 2022*
 - Wales Online: [NHS increasingly reliant on overseas doctors and nurses amid "workforce crisis"](https://www.walesonline.co.uk/news/uk-news/nhs-increasingly-reliant-overseas-doctors-24713931) *5 August 2022*

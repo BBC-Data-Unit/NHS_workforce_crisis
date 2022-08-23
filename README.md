@@ -1,8 +1,8 @@
-# NHS workforce crisis
+# Growth in NHS recruits from abroad prompts concern about over-reliance
 
-A repository covering our work on the staffing issues facing the NHS in 2022.
+![](https://ichef.bbci.co.uk/news/1632/idt2/idt2/701196a5-a9a8-4ccc-b307-ea1560b3157d/image/816)
 
-In August 2022, we revealed how the share of homegrown doctors and nurses joining England's NHS [had reached its lowest point in seven years](https://www.bbc.co.uk/news/uk-61230287).
+In August 2022, we [reported](https://www.bbc.co.uk/news/uk-61230287) how the share of homegrown doctors and nurses joining England's NHS had reached its lowest point in seven years.
 
 Some 58% of doctors joining the health service in 2021 came from the UK, with health bosses increasingly turning to international recruitment.
 The British Medical Association said the NHS faced a "workforce crisis". 
@@ -11,27 +11,23 @@ The government, however, insisted there were record numbers of doctors, a rise o
 
 While overall numbers had been increasing, critics said declining domestic recruitment was unsustainable to keep pace with demand.
 
-![Screenshot 2022-08-16 142342](https://user-images.githubusercontent.com/61186777/184917548-4f421347-9cd3-46b3-853c-375d192efafd.png)
+# Methodology
+
+We analysed workforce data provided by NHS Digital showing the nationalities of joiners, leavers and staff in post in England’s NHS from 2015 to 2021, to investigate if [trends we reported following the Brexit referendum in June 2016 continued](https://www.bbc.co.uk/news/uk-england-41556997).
+
+We also submitted 27 FOI requests to every health board in Scotland and Wales and every health and social care trust in Northern Ireland for similar data and manually inputted those data into a mastersheet. These data cover the period 2015-2020.
 
 # What we found 
-
-We analysed workforce data provided by NHS Digital from 2015 to 2021, to investigate if trends we reported following the Brexit referendum in June 2016 continued.
 
 - We found the share of UK doctors joining the health service had fallen from 69% in 2015 to 58% last year.  Over the same period, the share of new UK nurses fell from 74% to 61%.
 
 - Recruitment of doctors from the Rest of the World rose from 18% to 34% over the same period, and that share of international nurses rose from 7% to 34%.
 
-# Methodology
-
-We analysed data provided by NHS Digital showing the nationalities of joiners, leavers and staff in post in England’s NHS from 2015-2021.
-
-We also submitted 27 FOI requests to every health board in Scotland and Wales and every health and social care trust in Northern Ireland for similar data and manually inputted those data into a mastersheet. These data cover the period 2015-2020.
-
 # Get the data
 
-We produced [this](https://docs.google.com/document/d/1CEyPJaa_0jYeLY14QeYrQ7vischfdaNcUrQ99CyKBV4/edit?usp=sharing) story pack and [this](https://docs.google.com/spreadsheets/d/1GMCi3RKFy8yOzXobEzIf9d1dCNciS3FZDPXOg-IrkKA/edit?usp=sharing) dataset with details of staff leaving and joining each NHS trust in England as well as partial data received from the FOI requests sent within Scotland, Wales and Northern Ireland.
+We produced [this story pack](https://docs.google.com/document/d/1CEyPJaa_0jYeLY14QeYrQ7vischfdaNcUrQ99CyKBV4/edit?usp=sharing) and [this dataset](https://docs.google.com/spreadsheets/d/1GMCi3RKFy8yOzXobEzIf9d1dCNciS3FZDPXOg-IrkKA/edit?usp=sharing) with details of staff leaving and joining each NHS trust in England as well as partial data received from the FOI requests sent within Scotland, Wales and Northern Ireland.
 
-We also produced [this](https://nhsworkforce.github.io/getthedata/) website allowing partners to easily access information for their local trust.
+We also produced [this website](https://nhsworkforce.github.io/getthedata/) allowing our regional news partners to easily access information for their local trust.
 
 # Partner usage
 

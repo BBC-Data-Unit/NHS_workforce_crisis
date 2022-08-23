@@ -41,6 +41,7 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 - Islington Gazette: [Hospital trust increasingly reliant on international medical staff](https://www.islingtongazette.co.uk/news/share-of-uk-medical-staff-joining-decreased-9193036) *9 August 2022*
 - The Lincolnite: [More doctors training in Lincolnshire after drop in local staff](https://thelincolnite.co.uk/2022/08/more-doctors-training-in-lincolnshire-after-drop-in-local-staff/) *5 August 2022*
 - Norfolk Live: [Increase in NHS doctors and nurses joining from outside the EU as hospitals face 'workforce crisis'](https://www.norfolklive.co.uk/news/norfolk-news/nhs-workers-out-the-eu-7420102) *5 August 2022*
+- The Reading Chronicle: Share of homegrown doctors and nurses at Royal Berkshire Hospital decreasing *9 August 2022*
 - Peterborough Telegraph: [Falling number of 'homegrown' doctors and nurses opt to work for Peterborough health services, warns new report](https://www.peterboroughtoday.co.uk/news/people/falling-number-of-homegrown-doctors-and-nurses-opt-to-work-for-peterborough-health-services-warns-new-report-3794302) *5 August 2022*
 - Suffolk News: [Suffolk NHS trusts see international recruitment soar as UK intake stalls](https://www.suffolknews.co.uk/bury-st-edmunds/news/nhs-trusts-see-international-recruitment-soar-9267237/) *5 August 2022*
 - Wales Online: [NHS increasingly reliant on overseas doctors and nurses amid "workforce crisis"](https://www.walesonline.co.uk/news/uk-news/nhs-increasingly-reliant-overseas-doctors-24713931) *5 August 2022*

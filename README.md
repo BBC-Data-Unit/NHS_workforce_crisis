@@ -55,11 +55,11 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 - Suffolk News: [Suffolk NHS trusts see international recruitment soar as UK intake stalls](https://www.suffolknews.co.uk/bury-st-edmunds/news/nhs-trusts-see-international-recruitment-soar-9267237/) *5 August 2022*
 - Wales Online: [NHS increasingly reliant on overseas doctors and nurses amid "workforce crisis"](https://www.walesonline.co.uk/news/uk-news/nhs-increasingly-reliant-overseas-doctors-24713931) *5 August 2022*
 
-The story featured online and as a bulletin piece across local and national television and radio through 5 August, 2022.
+The story featured online and as a bulletin piece across BBC local and national television and radio through 5 August 2022.
 
 Health correspondent Jim Steer filmed a television package for BBC Breakfast, while a shared data unit member appeared on BBC Radio 4's Today programme and 5 Live Breakfast to discuss the story.
 
-The team also carried out interviews on BBC Tyne and Tees, Cambridgeshire, Newcastle, Kent and Warwickshire.
+The team also carried out interviews on BBC Radio Tees, BBC Radio Cambridgeshire, BBC Radio Newcastle, BBC Radio Kent and BBC CWR.
 
 ## Other usage
 

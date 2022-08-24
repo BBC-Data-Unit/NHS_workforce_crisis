@@ -67,6 +67,8 @@ Health correspondent Jim Steer filmed a television package for BBC Breakfast, wh
 
 The team also carried out interviews on BBC Radio Tees, BBC Radio Cambridgeshire, BBC Radio Newcastle, BBC Radio Kent and BBC CWR.
 
+The report made headlines for BBC Radio 2, Newsbeat (Radio 1, 1Xtra and Asian Network), Look North (Yorkshire), BBC Radio London, BBC Radio Sheffield, BBC Radio Bristol, BBC Three Counties Radio, BBC Radio WM, BBC Radio Lancashire, BBC Radio Solent, BBC Radio Berkshire, BBC Radio Leeds, BBC Sussex, BBC Radio Cambridgeshire, BBC Radio Merseyside, BBC CWR, BBC Tees, BBC Radio Derby, BBC Radio Devon, BBC Radio Humberside, BBC Essex, BBC Newcastle, BBC Radio Gloucestershire, BBC Hereford and Worcester, BBC Radio Kent, BBC Radio Leicester, BBC Radio Lincolnshire, BBC Radio York, BBC Radio Northampton, BBC Radio Nottingham, BBC Radio Oxford, BBC Radio Shropshire, BBC Somerset, BBC Radio Suffolk, BBC Surrey, BBC Wiltshire, BBC Radio Guernsey, BBC Radio Jersey and BBC Radio Foyle.
+
 ## Other usage
 
 

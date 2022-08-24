@@ -69,11 +69,16 @@ The team also carried out interviews on BBC Radio Tees, BBC Radio Cambridgeshire
 
 ## Other usage
 
+
+- Careappointments.com: [Fresh calls to tackle NHS staffing crisis as new analysis suggests over-reliance on recruits from abroad](https://careappointments.com/care-news/england/183650/fresh-calls-to-tackle-nhs-staffing-crisis-as-new-analysis-suggests-over-reliance-on-recruits-from-abroad/) *5 August 2022*
+- Chadwick Lawrence: [INCREASE IN NHS RECRUITS FROM OVERSEAS PROMPTS OVER-RELIANCE CONCERN](https://www.chadwicklawrence.co.uk/legal-news/increase-nhs-recruits-overseas-prompts-reliance-concern/) *16 August 2022*
+- Chamber UK: [Is NHS reliance on overseas recruitment healthy?](https://chamberuk.com/nhs-reliance-on-overseas-recruitment/) *5 August 2022*
 - gg2.net: UK's increasing dependence on overseas hirings to meet healthcare needs raises concern *6 August 2022*
 - The Guardian: [Overseas hiring spree planned for care homes in England amid winter fears](https://www.theguardian.com/society/2022/aug/19/overseas-hiring-spree-planned-for-care-homes-in-england-amid-winter-fears) *19 August 2022*
 - Health Business magazine: [Concern about over-reliance on overseas NHS staff](https://healthbusinessuk.net/news/05082022/concern-about-over-reliance-overseas-nhs-staff) *5 August 2022*
 - MailOnline: [The INTER-National Health Service: Share of NHS medics hired from overseas DOUBLES in five years — with one in three new recruits now from abroad](https://www.dailymail.co.uk/health/article-11084297/The-INTER-National-Health-Service-NHS-hiring-QUADRUPLE-number-foreign-doctors-nurses.html) *5 August 2022*
 - Nursing in Practice: [NHS increasingly dependant on international recruitment, data shows](https://www.nursinginpractice.com/latest-news/nhs-increasingly-dependant-on-international-recruitment-data-shows/) *8 August 2022*
+- patient safety learning the hub: [NHS too reliant on overseas recruits, says union](https://www.pslhub.org/blogs/entry/4101-nhs-too-reliant-on-overseas-recruits-says-union/) *5 August 2022*
 - SriLanka Weekly: UK’s increasing dependence on overseas hirings to meet healthcare needs raises concern *6 August 2022*
 - The Telegraph: [Surge in foreign medics ‘a risk to the NHS’](https://www.telegraph.co.uk/news/2022/08/05/over-reliance-foreign-medics-risk-nhs/) *5 August 2022*
 - The Times: [Staffing crisis leaves NHS increasingly reliant on doctors from overseas](https://www.thetimes.co.uk/article/staffing-crisis-leaves-nhs-increasingly-reliant-on-doctors-from-overseas-h9hr06b85) *6 August 2022*

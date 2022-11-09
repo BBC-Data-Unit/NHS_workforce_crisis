@@ -29,6 +29,18 @@ We produced [this story pack](https://docs.google.com/document/d/1CEyPJaa_0jYeLY
 
 We also produced [this website](https://nhsworkforce.github.io/getthedata/) allowing our regional news partners to easily access information for their local trust.
 
+# Interviews and quotes
+
+- Patricia Marquis (she/her), Royal College of Nursing (RCN) Director for England
+- Danny Mortimer (he/him), chief executive of NHS Employers (part of the NHS Confederation)
+- Consultant radiologist Sumaira Babar (she/her), who moved from Karachi in Pakistan to Huddersfield with her young family in October 2021.
+- Dr Amit Kochhar (he/him), British Medical Association (BMA) international committee deputy chair
+- Dr Hajra Usmani (she/her), who left her post as an A&E consultant in Frimley, Surrey, in 2021, to work in a similar role in Medina, Saudi Arabia
+- Dr Alexia Tsigka (she/her), a Consultant Histopathologist at Norfolk and Norwich University Hospitals and part-time Deputy Clinical Lead at Cyted in Cambridge.
+Born in Greece, she was a dual national with a British passport after applying in 2019. 
+- The Department of Health and Social Care (DHSC)
+- Kate Shoesmith (she/her), Deputy CEO at the Recruitment & Employment Confederation (REC)
+
 # Partner usage
 
 The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. Stories written by partners based on this research included:

@@ -40,6 +40,7 @@ We also produced [this website](https://nhsworkforce.github.io/getthedata/) allo
 Born in Greece, she was a dual national with a British passport after applying in 2019. 
 - The Department of Health and Social Care (DHSC)
 - Kate Shoesmith (she/her), Deputy CEO at the Recruitment & Employment Confederation (REC)
+- Dr Kamal Sidhu (he/him), a GP partner working across two practices in County Durham, who moved to England from India but was considering whether he needed to "uproot" his family abroad to care for his father after a heart attack left him housebound
 
 # Partner usage
 
